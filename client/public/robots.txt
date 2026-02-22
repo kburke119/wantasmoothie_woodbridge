@@ -1,0 +1,8 @@
+# robots.txt for Want A Smoothie
+# https://www.wantasmoothie.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.wantasmoothie.com/sitemap.xml
